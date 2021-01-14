@@ -1,2 +1,2 @@
 # Minimo
-Minimo phd to html template.
+Minimo psd to html template.
